@@ -55,7 +55,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String CLIENT_ID = "23QZDN";
+    private static final String CLIENT_ID = "HIDDEN";
     private static final String REDIRECT_URI = "com.example.fypv2://oauth2redirect";
     private static final String AUTHORIZATION_ENDPOINT = "https://www.fitbit.com/oauth2/authorize";
     private static final String TOKEN_ENDPOINT = "https://api.fitbit.com/oauth2/token";
