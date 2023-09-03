@@ -8,3 +8,5 @@ Application focuses on weight cutting for combat athletes, monitors daily weight
 Simple GUI, focus on functionality.
 
 Functionality of the API may be extended if time permits...
+
+NOTE: oAuth 2.0 Client ID removed for security reasons
